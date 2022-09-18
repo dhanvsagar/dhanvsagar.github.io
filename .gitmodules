@@ -1,0 +1,6 @@
+[submodule "dhanvsagar/themes/PaperMod"]
+	path = dhanvsagar/themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "dhanvsagar/themes/devise"]
+	path = dhanvsagar/themes/devise
+	url = https://github.com/austingebauer/devise.git
