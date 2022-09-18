@@ -6,8 +6,22 @@
     <description>Recent content on Dhan V Sagar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; Copyright Year, Dhan V Sagar</copyright>
+    <copyright>&amp;copy; 2022, Dhan V Sagar</copyright>
     <lastBuildDate>Sat, 17 Sep 2022 23:38:29 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 17 Sep 2022 23:38:29 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Hello 👋 I’m Dhan V Sagar.
+I live in Waterloo, Ontario, Canada.
+I’m a senior software engineer at Cisco Syatens working on the Webex product.
+My current technical intetests are in the areas of cloud, devops, observability and machine learning.
+I have also got a chance to work on some IPTV/Video products in my previous company Nokia Corporation.
+I am a Master of Technology (MTech) focused in Computer Science from Amrita School of Engineering, Coimbatore, India.</description>
+    </item>
+    
     <item>
       <title>First</title>
       <link>/posts/first/</link>
@@ -15,15 +29,6 @@
       
       <guid>/posts/first/</guid>
       <description>First post This is a new blog.</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>/about/</link>
-      <pubDate>Sat, 17 Sep 2022 23:38:29 -0400</pubDate>
-      
-      <guid>/about/</guid>
-      <description>About me</description>
     </item>
     
   </channel>
