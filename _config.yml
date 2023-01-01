@@ -48,7 +48,12 @@ linkedin_username: dhan-v-sagar
 # about_title: About Me
 about_profile_image: images/dvs.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello 👋 I’m Dhan V Sagar. I live in Waterloo, Ontario, Canada. I’m a senior software engineer at Cisco Systems working on Webex products. My current technical intetests are in the areas of <mark>Cloud</mark> <mark>Virtualization</mark> <mark>Git/Devops</mark> <mark>Observability</mark> and <mark>Machine Learning</mark>. I have also got a chance to work on some <mark>IPTV/OTT/Video products</mark> in my previous company Nokia Corporation. I am a Master of Technology (MTech) focused in Computer Science from Amrita School of Engineering, Coimbatore, India.
+  Hello 👋 I’m Dhan V Sagar. 
+  I live in Waterloo, Ontario, Canada. 
+  I’m a senior software engineer at Cisco Systems working on Webex products. 
+  My current technical intetests are in the areas of <mark>Cloud</mark> <mark>Virtualization</mark> <mark>Git/Devops</mark> <mark>Observability</mark> and <mark>Machine Learning</mark>. 
+  I have also got a chance to work on some <mark>IPTV/OTT/Video products</mark> in my previous company Nokia Corporation. 
+  I am a Master of Technology (MTech) focused in Computer Science from Amrita School of Engineering, Coimbatore, India.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
