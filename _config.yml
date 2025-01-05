@@ -67,28 +67,28 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Engineer IV
         caption: October 2022 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        # quote: >
+        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Architected and implemented Metrics 2.0 solutions, enabling Observability as a Service using Prometheus, Grafana Mimir, and Grafana.
+            - Architected and implemented Metrics 2.0 solutions, enabling Observability as a Service using Prometheus, Grafana Mimir, and Grafana.
 
-            Migrated 35M active metric series from legacy systems (Circonus, InfluxDB) to Prometheus/Mimir with zero downtime.
+            - Migrated 35M active metric series from legacy systems (Circonus, InfluxDB) to Prometheus/Mimir with zero downtime.
 
-            Led the modernization of logging and observability systems for enhanced service reliability.
+            - Led the modernization of logging and observability systems for enhanced service reliability.
 
-            Deployed and maintained scalable Kubernetes applications using Helm and Terraform.
+            - Deployed and maintained scalable Kubernetes applications using Helm and Terraform.
 
-            Automated CI/CD pipelines with GitOps tools like ArgoCD and Terraform Enterprise.
+            - Automated CI/CD pipelines with GitOps tools like ArgoCD and Terraform Enterprise.
 
-            Conducted incident management and post-mortem analysis to improve system reliability.
+            - Conducted incident management and post-mortem analysis to improve system reliability.
 
-            Created proof-of-concepts (PoCs) for building intelligent agents using LangChain, RAG (Retrieval-Augmented Generation), and integrating internal documentation to enhance team productivity.
+            - Created proof-of-concepts (PoCs) for building intelligent agents using LangChain, RAG (Retrieval-Augmented Generation), and integrating internal documentation to enhance team productivity.
 
-            Modernized infrastructure monitoring using OpenTelemetry (OTel).
+            - Modernized infrastructure monitoring using OpenTelemetry (OTel).
 
-            Explored and architected distributed tracing solutions with OpenTelemetry and Tempo.
+            - Explored and architected distributed tracing solutions with OpenTelemetry and Tempo.
 
-            Designed specific logging use cases leveraging Apache Iceberg, Apache Pinot, and AWS Glue for advanced analytics.
+            - Designed specific logging use cases leveraging Apache Iceberg, Apache Pinot, and AWS Glue for advanced analytics.
       - layout: left
         title: Nokia
         link: nokia.com
