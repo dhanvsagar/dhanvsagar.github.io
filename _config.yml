@@ -89,16 +89,29 @@ content:
             - Explored and architected distributed tracing solutions with OpenTelemetry and Tempo.
 
             - Designed specific logging use cases leveraging Apache Iceberg, Apache Pinot, and AWS Glue for advanced analytics.
+
+            - Built AWS environments (sandbox and production) and automated deployments using Terraform and Ansible.
+
+            - Streamlined Kubernetes lifecycle management via Helm charts and Jenkins-based CI/CD.
+
       - layout: left
         title: Nokia
         link: nokia.com
         # link_text: boringcompany.com
         sub_title: Technical Lead
         caption: June 2015 - October 2020
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            IPTV/OTT Products
+          - Developed automated testing frameworks and containerized test environments using Docker and Kubernetes.
+
+          - Containerized multimedia applications using Docker and performed end-to-end validation on cloud-based systems.
+
+          - Automated performance analysis of video/audio traffic with Python scripting.
+
+          - Automated CI/CD pipelines using GitLab CI, Docker, and Python.
+
+          - Led network configuration and VPN integrations for production environments.
+
+          - Enhanced service reliability through functional and performance testing on Linux platforms.
       - layout: left
         title: Alcatel-Lucent
         link: nokia.com
@@ -108,7 +121,7 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            IPTV/OTT Products
+            - End to End integration and validation of IPTV/OTT Products
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
