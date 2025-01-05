@@ -52,31 +52,12 @@ about_content: | # this will include new lines to allow paragraphs
   
   I live in Waterloo, Ontario, Canada. 
   
-  I’m a senior software engineer at Cisco Systems working on Webex products. 
-  My current technical intetests are in the areas of <mark>Cloud</mark> <mark>Virtualization</mark> <mark>Git/Devops</mark> <mark>Observability</mark> and <mark>Machine Learning</mark>. 
+  Accomplished Cloud and Site Reliability Engineer with over 10 years of experience in Cloud Native technologies, DevOps, and Observability. Expertise in infrastructure automation, Kubernetes administration, and cloud operations across AWS, Terraform, and Helm. Proficient in CI/CD, GitOps practices, and monitoring solutions like Prometheus, OpenTelemetry, LGTM Stack and Grafana. Passionate about delivering scalable, reliable, and efficient cloud platforms.
+
   I have also got a chance to work on some <mark>IPTV/OTT/Video products</mark> in my previous company Nokia Corporation.
   
   As a hobby during my free time, I enjoy capturing landscapes and telling stories through my photography
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
