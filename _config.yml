@@ -129,8 +129,11 @@ content:
         caption: 2013 - 2015
         sub_title: M.Tech Computer Science
         description: | # this will include new lines to allow paragraphs
-          Graduate Coursework: Machine Learning; Agent based intelligent systems; Statistics; Soft Computing, Computational theory.
-  - title: Reaserch # Title for the section
+          Graduate Coursework: \
+          Machine Learning; Agent based intelligent systems; Statistics; Soft Computing, Computational theory.
+          UnderGraduate Coursework: \
+          Datastructures & Algorithms; Operating Systems; Computer Networks; Software Engineering Methods.
+  - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -146,6 +149,8 @@ content:
       When I'm not immersed in work, I find solace and creative expression through photography. Feel free to checkout them :)
       - [500px](https://500px.com/p/dhanvsagar?view=photos)
       - [Instagram](https://www.instagram.com/dvsagar007/)
+      \
+      College days tech blog - [Ideid](https://ideid.blogspot.com/)
 
 # Footer
 footer_show_references: true
