@@ -131,8 +131,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           Graduate Coursework: \
           Machine Learning; Agent based intelligent systems; Statistics; Soft Computing, Computational theory.\
+      - layout: left
+        title: CUSAT
+        caption: 2008 - 2012
+        sub_title: B.Tech Information Technology
+        description: | # this will include new lines to allow paragraphs
           UnderGraduate Coursework: \
-          Datastructures & Algorithms; Operating Systems; Computer Networks; Software Engineering Methods.
+          Datastructures & Algorithms; Operating Systems; Computer Networks; Software Engineering Methodology.          
   - title: Research # Title for the section
     layout: list # Type of content section (list/text)
     content:
